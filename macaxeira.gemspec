@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Macaxeira is a simple gem to easy mobile test with appium}
   spec.description   = %q{Macaxeira is a simple gem to easy mobile test with appium}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/wellavelino/macaxeira"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|

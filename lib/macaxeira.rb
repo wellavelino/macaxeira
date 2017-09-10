@@ -1,5 +1,11 @@
 require "macaxeira/version"
 
+require 'thor'
+
+
 module Macaxeira
-  # Your code goes here...
+  class Generate < Thor
+    include Thor::Actions
+
+  end
 end
